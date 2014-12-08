@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Icons", "Icons", "{6B20ABDE-A1B8-46B7-8A1D-48909E0F9C8D}"
+	ProjectSection(SolutionItems) = preProject
+		Icons\HansKindberg.ico = Icons\HansKindberg.ico
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{0D19902C-C07D-4367-AEF6-9B612F3C0EF7}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bitmaps", "Bitmaps", "{86930AE7-A2D2-4AF2-9343-816998227493}"
+	ProjectSection(SolutionItems) = preProject
+		Bitmaps\HansKindberg.bmp = Bitmaps\HansKindberg.bmp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
